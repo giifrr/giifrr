@@ -1,17 +1,8 @@
 <h1 align="center"> Hello There 👋 </h1>
 
+I am [Gifar Al Anshar](https://www.linkedin.com/in/gifar-al-anshar/) :blush:	 . Currently I am a final year student from State University of Malang in Mathematics with specialization in Software Engineering :satellite: . I am verry passionate in learning software engineering especially in backend systems :sparkles:. I have developed a backend project using best practices in software engineering, including Test Driven Development, the SOLID principles, and the DRY principle. :file_cabinet: . I am currently brushing up my skills and plan to learn Golang. :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/giifrr/my-market-place-api)
 
-* I am [Gifar Al Anshar](https://www.linkedin.com/in/gifar-al-anshar/) :blush:	 . Currently I am a final year student from State University of Malang in Mathematics with specialization in Software Engineering :satellite:
-
-* I am verry passionate in learning software engineering especially in backend systems :sparkles:.
-
-* I have developed a backend project using best practices in software engineering, including Test Driven Development, the SOLID principles, and the DRY principle. :file_cabinet: .
-
-* I am currently brushing up my skills and plan to learn Golang.
-
-* :magnet: You can checkout my projects from here :fire: - [![projects](https://forthebadge.com/images/badges/check-it-out.svg)](https://github.com/giifrr/my-market-place-api)
-
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
+Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
 
 
 ## Tech Stack :computer:
