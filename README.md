@@ -5,59 +5,44 @@ I am [Gifar Al Anshar](https://www.linkedin.com/in/gifar-al-anshar/) :blush:	 . 
 Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
 
 
-## Tech Stack :computer:
+<div align="center">
+  <img alt="dsmark" align="center" height="70px" width="70px"
+    src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px"
+      src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+    <br />
+    <img
+      src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+    <br />
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt=""></code>
+    <br />
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+    <br />
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</div>
 
-<br>
-<table>
-<tbody>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Rails</center></b></span> 
-<img height=65px src="https://png.pngitem.com/pimgs/s/25-255601_ruby-on-rails-hd-png-download.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
- 
- <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=65px src="https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>WSL for Windows</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
- 
-<td align="center" width="20%">
-<span><b><center>Golang</center></b></span> 
-<img height=65px src="https://www.clipartmax.com/png/small/353-3536792_go-golang-logo-png.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
-</tr>
-
-</tbody>
-</table>
 
 
  
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=giifrr&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+----
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=giifrr&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/giifrr)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=giifrr&theme=material-palenight)](https://github.com/giifrr)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 
 ## My Certifications :arrow_down:
 
