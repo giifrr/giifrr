@@ -1,6 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-I am [Gifar Al Anshar](https://www.linkedin.com/in/gifar-al-anshar/) :blush:	 . Currently I am a final year student from State University of Malang, majoring in Mathematics with specialization in Software Engineering :satellite: . I am verry passionate in learning software engineering especially in backend systems :sparkles:. I have developed a backend project using best practices in software engineering, including Test Driven Development, the SOLID principles, and the DRY principle. :file_cabinet: . I am currently brushing up my skills and plan to learn Golang.
+
+Hi, I'm Gifar, a Junior Software Engineer mainly focused on building backend services. Currently, I'm interested in learning DevOps and gaining some knowledge in the data field. I enjoy solving algorithmic problems and learning about software engineering concepts and best practices such as design patterns, clean code, and software architecture. My goal is to create products that are maintainable, clean, and performant.
 
 Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
 
