@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-Hi, I'm Gifar, a Junior Software Engineer mainly focused on building backend services. Currently, I'm interested in transitioning into a security researcher role, with a focus on offensive security and cybersecurity. I still enjoy solving algorithmic problems and learning about software engineering concepts. My goal is to create products that are secure, maintainable, and performant while contributing to the field of cybersecurity research.
+Hi, I'm Gifar, Junior Software Engineer mainly focused on building backend services. Currently, I'm interested in transitioning into a security researcher role, with a focus on offensive security and cybersecurity. I still enjoy solving algorithmic problems and learning about software engineering concepts. My goal is to create products that are secure, maintainable, and performant while contributing to the field of cybersecurity research.
 
 Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
 
