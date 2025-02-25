@@ -1,12 +1,3 @@
-<h1 align="center"> Hello There 👋 </h1>
-
-
-Hi, I'm Gifar, Junior Software Engineer mainly focused on building backend services. I'm interested in transitioning into a security researcher role, focusing on offensive security and cybersecurity. I still enjoy solving algorithmic problems and learning about software engineering
-
-Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gifar-al-anshar/) :sparkler:
-
-
-
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
